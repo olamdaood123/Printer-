@@ -11,7 +11,7 @@
 ​استخدام مكتبات System.Drawing و System.Drawing.Printing لإدارة مربعات حوار الطباعة والمعاينة بدقة عالية.
 ​واجهة سهلة للتحكم في عدد النسخ وإعدادات الورق.
 ​💻 لقطات الشاشة (Screenshots)
-​
+​![Application Preview] (Image1.png)
 
 ​🛠 التقنيات (Tech Stack)
 ​اللغة: #C (سي شارب).
