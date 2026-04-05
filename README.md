@@ -22,8 +22,11 @@
 
 ### 💻 لقطات الشاشة (Screenshots)
 
+<img width="1920" height="1080" alt="Image1" src="https://github.com/user-attachments/assets/dba02f21-6820-4d2f-8bd1-00752e0b2be7" />
 
----
+---<img width="1920" height="1080" al<img width="1920" height="1080" alt="Image1" src="https://github.com/user-attachments/assets/a9557666-3d09-4863-a214-ae6cb086daaf" />
+t="‏‏لقطة الشاشة (11)" src="https://github.com/user-attachments/assets/bf586658-cdb4-4e3f-8087-f91462a08c6b" />
+
 <img width="1920" height="1080" alt="Image1" src="https://g![Uploading ‏‏لقطة الشاشة <img width="1920" height="1080" alt="‏‏لقطة الشاشة (11)" src="https://github.com/user-attachments/assets/73bfc3cc-989c-4c27-9c0e-8c11d8272a62" />
 (12).png…]()
 ithub.com/user-attachments/assets/34a633b2-a830-42d2-91c0-6e8db97bb55c" />
